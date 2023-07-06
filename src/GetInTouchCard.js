@@ -14,7 +14,7 @@ return( <div className="col-4">
         ? "London is a beautiful city"
         : city === "Paris" ? "Beautiful":"sndkjanskdnask"}
     </p>
-    <a 
+    <a  href="https://www.google.com/"
       className={
         city === "London"
           ? "btn btn-danger"

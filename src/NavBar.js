@@ -13,7 +13,7 @@ export default function NavBar()
       <ul className="navbar-nav mr-auto">
         <li className="nav-item active">
           <a className="nav-link text-white" href="https://www.google.com/">
-            Home{" "}
+            Home
           </a>
         </li>
         <li className="nav-item">
