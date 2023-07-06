@@ -12,7 +12,7 @@ return( <div className="col-4">
     <p className="card-text">
       {city === "London"
         ? "London is a beautiful city"
-        : "sndkjanskdnask"}
+        : city === "Paris" ? "Beautiful":"sndkjanskdnask"}
     </p>
     <a
       href="#"
