@@ -22,7 +22,7 @@ export default function NavBar()
           </a>
         </li>
         <li className="nav-item dropdown">
-          <a className="nav-link text-white">Products</a>
+          <a  href="https://www.google.com/" className="nav-link text-white">Products</a>
         </li>
         <li className="nav-item">
           <a className="nav-link text-white" href="https://www.google.com/">
