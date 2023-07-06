@@ -6,18 +6,18 @@ export default function NavBar()
 
     return ( 
     <nav className="navbar navbar-expand-lg text-white bg-dark">
-    <a className="navbar-brand text-success" href="#">
+    <a className="navbar-brand text-success" href="https://www.google.com/">
       Navbar
     </a>
     <div className="collapse navbar-collapse">
       <ul className="navbar-nav mr-auto">
         <li className="nav-item active">
-          <a className="nav-link text-white" href="#">
+          <a className="nav-link text-white" href="https://www.google.com/">
             Home{" "}
           </a>
         </li>
         <li className="nav-item">
-          <a className="nav-link text-white" href="#">
+          <a className="nav-link text-white" href="https://www.google.com/">
             About Us
           </a>
         </li>
@@ -25,7 +25,7 @@ export default function NavBar()
           <a className="nav-link text-white">Products</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link text-white" href="#">
+          <a className="nav-link text-white" href="https://www.google.com/">
             Meeting
           </a>
         </li>
